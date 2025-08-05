@@ -16,11 +16,6 @@ Program sederhana untuk mengecek dan mengelola nilai pH produk/larutan dengan in
 
 ## 🚀 Cara Penggunaan
 
-```bash
-# Clone repository
-git clone https://github.com/username/ph-checker.git
-cd ph-checker
-
 # Jalankan program
 go run main.go
 ```
