@@ -18,7 +18,7 @@ Program sederhana untuk mengecek dan mengelola nilai pH produk/larutan dengan in
 
 # Jalankan program
 go run main.go
-```
+
 
 ## 📝 Menu Program
 
@@ -34,12 +34,12 @@ go run main.go
 
 ## 📄 Contoh Output
 
-```
+
 --- Hasil Pengecekan pH ---
 Nama Produk: Larutan Cuka
 Nilai pH: 2.50 🔴
 Kategori: Sangat Asam
 Waktu Pengecekan: 05-08-2025
 -----------------------------
-```
+
 
